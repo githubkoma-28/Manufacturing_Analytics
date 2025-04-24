@@ -1,1 +1,2 @@
-Interactive Dashboards Using EXCEL, POwer BI, Tableau
+Manufacturing Analytics
+Interactive Dashboards Using EXCEL,POwer BI,Tableau
